@@ -1,0 +1,23 @@
+{
+  "name": "nodeexam",
+  "version": "1.0.0",
+  "description": "node Example",
+  "main": "loadTestnodeExam1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astraltear/nodeExam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astraltear/nodeExam/issues"
+  },
+  "homepage": "https://github.com/astraltear/nodeExam#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
