@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/astraltear/nodeExam#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.3",
+    "nodeexam": "file:"
   }
 }
