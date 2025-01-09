@@ -2,7 +2,7 @@
 const mongoose = require('mongoose');
 const Person = require('./person-model');
 
-const uri = "mongodb+srv://<id>:<pw>@cluster0.hst04.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const uri = "mongodb+srv://<user>:<pw>@cluster0.hst04.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 async function main() {
   try{
